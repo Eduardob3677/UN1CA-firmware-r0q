@@ -1,0 +1,10 @@
+libAImode_wrapper.camera.samsung.so
+libAIphoto_core.camera.samsung.so
+libLocalTM_wrapper.camera.samsung.so
+libOpenCL.so
+libPersonal_capture.camera.samsung.so
+libadsprpc.so
+libcdsprpc.so
+libfastcvopt.so
+libqti-perfd-client.so
+libsdsprpc.so
